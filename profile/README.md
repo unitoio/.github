@@ -36,6 +36,6 @@ Come [work with us](https://unito.io/careers/)!
 Oh, and a few last things about us:
 
 - [Our salaries are transparent and data-backed](https://unitoio.notion.site/Compensation-at-Unito-1943c90ac588403a8c2e950fd2232411). Everybody knows what everybody’s salary is (even the CEO!), and how we came up with the numbers.
-- [Our hiring process doesn’t suck](https://github.com/poteto/hiring-without-whiteboards): candidates go through team-fit interviews, technical discussions, then a take-home project. No whiteboard.
+- [Our hiring process doesn’t suck](https://github.com/poteto/hiring-without-whiteboards): candidates go through team-fit interviews, technical discussions, then a paid take-home project. No whiteboard.
 
 Come [work with us](https://unito.io/careers/)!
