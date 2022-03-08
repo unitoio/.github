@@ -33,4 +33,9 @@ Come [work with us](https://unito.io/careers/)!
 3. Mentor others, so that we improve as a team
 4. Lead by example
 
-Oh, and one last thing: [our salaries are transparent and data-backed](https://unitoio.notion.site/Compensation-at-Unito-1943c90ac588403a8c2e950fd2232411). Everybody knows what everybody’s salary is (even the CEO!), and how we came up with the numbers.
+Oh, and a few last things about us:
+
+- [Our salaries are transparent and data-backed](https://unitoio.notion.site/Compensation-at-Unito-1943c90ac588403a8c2e950fd2232411). Everybody knows what everybody’s salary is (even the CEO!), and how we came up with the numbers.
+- [Our hiring process doesn’t suck](https://github.com/poteto/hiring-without-whiteboards): candidates go through team-fit interviews, technical discussions, then a take-home project. No whiteboard.
+
+Come [work with us](https://unito.io/careers/)!
