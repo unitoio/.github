@@ -32,3 +32,5 @@ Come [work with us](https://unito.io/careers/)!
 2. Strive for excellence
 3. Mentor others, so that we improve as a team
 4. Lead by example
+
+Oh, and one last thing: [our salaries are transparent and data-backed](https://unitoio.notion.site/Compensation-at-Unito-1943c90ac588403a8c2e950fd2232411). Everybody knows what everybody’s salary is (even the CEO!), and how we came up with the numbers.
